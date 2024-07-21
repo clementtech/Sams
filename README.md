@@ -9,6 +9,6 @@ Sams will:
 * Choice to open the URL in your preferred Application or Browser
 
 Sams is useful for:
-* Personal daily use! Ever worried about clicking links on Social Media? Say no more with Sams Advanced Protection
-* High Profile User. Ever worried about being targeted with phising links? Sams Professional Protection will prevent you from opening the link.
-* Call Center. Say no more Phising Attack URL with Sams Enterprise Protection. 
+* Personal daily use
+* Corporate User
+* Call Center
